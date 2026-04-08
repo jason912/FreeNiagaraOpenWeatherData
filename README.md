@@ -9,3 +9,5 @@ NewYork
 https://api.open-meteo.com/v1/forecast?latitude=40.71&longitude=-74.01&current=temperature_2m,relative_humidity_2m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=America%2FNew_York
 TempC is Celsius and TempF is Fahrenheit.
 User trigger to excute the curl command to the URL. 
+Should you need to develop more weather functions, such as UV light, IAQ, or weather forecast, just let me know. 
+jason.zhang@gline-net.com
