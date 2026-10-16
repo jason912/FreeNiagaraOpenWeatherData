@@ -81,3 +81,18 @@ https://api.open-meteo.com/v1/forecast?latitude=1.29&longitude=103.85&current=te
 
 Should you need to develop more weather functions, such as UV light, IAQ, or weather forecast, just let me know. 
 jason.zhang@gline-net.com
+
+---
+
+## Commercial Support
+
+This module is free of charge under the MIT License (see [LICENSE](LICENSE)).
+
+For production deployments requiring warranty, priority support, or custom
+development, commercial support is available.
+
+- Email: jason.zhang@gline-net.com
+- WhatsApp: +86 138 0199 0968
+- Web: [www.glineweb.com](https://www.glineweb.com)
+
+Shanghai Gline Net Co., Ltd.
